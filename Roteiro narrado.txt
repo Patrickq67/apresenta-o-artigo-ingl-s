@@ -1,0 +1,49 @@
+**Slide 1 – Capa**
+"Olá Prof. Patrick! Eu sou Patrick Alves de Queiros, e esta é minha apresentação final sobre o artigo 'The Role of National Cybersecurity Strategies on the Improvement of Cybersecurity Education'. Vamos falar sobre como alinhar o ensino de cibersegurança às estratégias nacionais."
+
+---
+
+**Slide 2 – Referência**
+"O artigo foi publicado na revista *Computers & Security*, da Elsevier, e propõe um modelo inovador para conectar estratégias de cibersegurança com o ensino técnico e superior."
+
+---
+
+**Slide 3 – Introdução**
+"Esse artigo reforça inicialmente que a cibersegurança é essencial para todos os setores da sociedade. No Brasil, vemos casos graves, como vazamentos no PIX, na XP, e até fraudes com dados de professores. Isso mostra como ainda estamos despreparados. Investir em educação nessa área é urgente."
+
+---
+
+**Slide 4 – Objetivo**
+"O principal objetivo do artigo é propor um modelo sistemático que ajude a conectar as metas nacionais à formação de profissionais em cibersegurança."
+
+---
+
+**Slide 6 – Resultados**
+"Essas são as metas mais recorrentes nas estratégias nacionais. O modelo busca conectar essas demandas aos currículos educacionais."
+
+---
+
+**Slide 7 – Modelos GQO + NICE**
+"O modelo GQO define metas, perguntas e resultados esperados. Já o NICE organiza as competências necessárias. Juntos, eles tornam o ensino mais estratégico e voltado ao mercado."
+
+---
+
+**Slide 8 – Contexto Global**
+"Hoje, faltam milhões de profissionais em cibersegurança no mundo. O artigo mostra que a única forma de reverter esse cenário é alinhando os planos nacionais às políticas educacionais."
+
+---
+
+**Slide 9 – Desafios**
+"Mesmo com avanços, ainda existem muitos desafios. Os currículos muitas vezes não acompanham as demandas reais e deixam lacunas na formação dos estudantes."
+
+---
+
+**Slide 10 – Visão Crítica**
+"Acredito que o modelo apresentado pode ajudar o Brasil a evoluir no ensino técnico e superior. Precisamos pensar cibersegurança como política pública, não só como disciplina opcional."
+
+---
+
+**Slide 11 – Conclusão**
+"Para concluir: cibersegurança precisa estar no centro da formação profissional. O modelo apresentado é uma excelente base para transformar o ensino e preparar melhor os futuros profissionais."
+
+
