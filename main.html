@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Apresentação + Site</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+    }
+    .split-view {
+      display: flex;
+      height: 100vh;
+    }
+    .split-view iframe {
+      flex: 1;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="split-view">
+    <!-- Lado esquerdo: Sua apresentação local -->
+    <iframe src="index.html"></iframe>
+
+    <!-- Lado direito: Wikipedia ou outro site externo que permita embed -->
+    <iframe src="https://www.sciencedirect.com/science/article/abs/pii/S0167404822001493"></iframe>
+  </div>
+</body>
+</html>
